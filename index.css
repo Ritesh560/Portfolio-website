@@ -6,7 +6,7 @@ body {
 .body {
   margin: 0%;
   padding: 0%;
-  background-image: url(./img/back2.jpg);
+  background-image: url("./img/back2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 20%;
